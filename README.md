@@ -1,5 +1,5 @@
-# GCC-AI
-Stands for Golden Cookie Clicker AI
+# GCC-Bot
+Stands for Golden Cookie Clicker Bot
 
 
-An image recognition AI will be a learning journey for me.
+An image recognition Bot will be a learning journey for me.
